@@ -9,12 +9,15 @@
 
 ## Machine Learning Modules
 1. Logistic Regression
-2. K-Nearest Neighbour (KNN)
-3. Support Vector Machine (SVM)
-4. Gaussian Naive Bayes
-5. Decision Tree
-6. Random Forest
-7. AdaBoost
-8. XGBoost
+2. Gaussian Naive Bayes
+3. Decision Tree
+4. Random Forest
+5. AdaBoost
+6. XGBoost
+> warning!! dataset is very imbalance but my pc is not that to strong to use SMOTHEENN 
+
+# result!
+
+![image](https://user-images.githubusercontent.com/36596572/216835212-71cc5e8d-b0dc-4ea8-b30d-5ec4804f5ec0.png)
 
 
